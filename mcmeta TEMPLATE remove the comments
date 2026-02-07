@@ -1,0 +1,17 @@
+{
+	"animation":{
+		"frametime": 2, # how fast the animation is
+		"frames": [
+			{
+				"index": 0,
+				"time": 120 # how much time the first frame lasts
+			},
+			1,            # input as many frames - 1 as your animation the template has 7 frames
+			2,
+			3,
+			4,
+			5,
+			6
+		]
+	}
+}
